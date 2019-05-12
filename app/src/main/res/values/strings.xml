@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">youPoll</string>
+
+    <string name="facebook_app_id">2284881558501652</string>
+    <string name="fb_login_protocol_scheme">fb2284881558501652</string>
+    <string name="gmail_default_id">660721688328-t9f4amubt4bboehl4tkfiet0pi30fcks.apps.googleusercontent.com</string>
+    <string name="log_out">Log out</string>
+    <string name="save">save</string>
+    <string name="choice_4">Choice 4</string>
+    <string name="choice_3">Choice 3</string>
+    <string name="choice2">Choice2</string>
+    <string name="choice1">Choice1</string>
+    <string name="choices">Choices</string>
+    <string name="question">Question</string>
+    <string name="logged_in_as">Logged in as</string>
+
+</resources>

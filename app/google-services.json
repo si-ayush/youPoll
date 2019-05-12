@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "651297046530",
+    "firebase_url": "https://youpoll-bb80b.firebaseio.com",
+    "project_id": "youpoll-bb80b",
+    "storage_bucket": "youpoll-bb80b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651297046530:android:57e342ffdb6506db",
+        "android_client_info": {
+          "package_name": "com.example.shivam.youpoll"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651297046530-eu5pe3hgm9qjn3ftskfmenv82qfq02la.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shivam.youpoll",
+            "certificate_hash": "749f4e84523b121b79dc8e2a099a044af709dc51"
+          }
+        },
+        {
+          "client_id": "651297046530-vn7b81nkrja4dl8at7vhqakips52l071.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChDjOGALhiBrQ2TFhSCnLIRwPdC1fu-vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651297046530-vn7b81nkrja4dl8at7vhqakips52l071.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
